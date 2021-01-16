@@ -6,8 +6,6 @@ public class jfile{
 
     System.out.println("Akhil is Amazing");
     System.out.println("Akhil is too good");
-    System.out.println("This is the new_feature branch");
-    System.out.println("This is really the new_feature branch");
 
   }
 
